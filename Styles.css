@@ -1,0 +1,127 @@
+/********************************Tag Selectors*********************************/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+img{
+  display: inline-block;
+}
+h1 {
+  margin: 0;
+  font-size: 75px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-size: 38px;
+  color: #0c9463;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h3{
+  font-size: 23px;
+  color: #e25822;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+hr {
+  border-width: 2px;
+  border-style: dashed none none;
+  width: 100%;
+}
+
+
+
+p{
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/********************************Class Selectors*******************************/
+.top-container {
+  background-color: #c3f584;
+  position: relative;
+  padding: 100px;
+  height: 450px;
+}
+
+.mountain{
+  position: absolute;
+  right: 25%;
+  bottom: 0;
+}
+
+.top-cloud {
+  width: 110px;
+  position: absolute;
+  right: 380px;
+  top: 10px;
+}
+
+.bottom-cloud {
+  width: 190px;
+  position: absolute;
+  left: 175px;
+  bottom: 290px;
+}
+
+.programming{
+  width: 250px;
+}
+
+.druming{
+  width: 250px;
+}
+
+.contact{
+  font-family: 'Montserrat Alternates', sans-serif;
+  background-color: #21bf73;
+}
+
+.bottom-tag{
+  text-decoration: underline;
+}
+
+.middle-container {
+  background-color: #ffffff;
+  height: 1410px;
+}
+
+.bottom-container {
+  padding: 40px;
+  background-color: #c3f584;
+  height: 5px;
+}
+
+.computer{
+  width: 400px;
+}
+
+.link{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+}
+
+/*
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Josefin Slab', serif;
+font-family: 'Quicksand', sans-serif;
+*/
+
+/*.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}*/
